@@ -1,0 +1,3 @@
+name = "fmc-automation"
+main = "worker.js"
+compatibility_date = "2025-03-01"
